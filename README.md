@@ -2,8 +2,6 @@
 
 Esse foi meu primeiro projeto manipulando querys em MySql aqui na [Trybe](https://www.betrybe.com/):rocket:
 
-[Pasta com as querys]()
-
 ## Conteúdos práticados
 
 - SELECT
@@ -20,4 +18,4 @@ Esse foi meu primeiro projeto manipulando querys em MySql aqui na [Trybe](https:
 - UPDATE
 - DELETE
 
-[Readme Original requisitos do projeto]();
+[Readme Original requisitos do projeto](https://github.com/lucasquearis/project-mysql-all-for-one/blob/master/readmeOriginalProject.md);
